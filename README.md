@@ -23,3 +23,4 @@
 - [Stella King](/students/stella-k.md)
 - [Noah Bailey](/students/noah-b.md)
 - [Stu Cowley](/students/stu-c.md)
+- [Josh Blanchett](/students/josh-b.md)
